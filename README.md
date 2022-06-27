@@ -1,2 +1,2 @@
 # hAIku
-A repo for displaying a demo for the React Native app I created
+A repo for displaying information about a React Native I created
