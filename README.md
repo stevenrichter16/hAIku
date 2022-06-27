@@ -11,7 +11,8 @@ The goal of hAIku was to create an app that generated relatively complex poems b
 
 topic: harsh blizzard
 
-poem: Branches like bones of birds 
+poem: 
+      Branches like bones of birds 
 
       Like feathered fish frozen mid-jump 
       
