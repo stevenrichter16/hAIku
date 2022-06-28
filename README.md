@@ -76,7 +76,7 @@ Since GPT-3 is a new and powerful algorithm, OpenAI requires developers to imple
 All of the code is finished and tested. In the future I will submit hAIku to Apple and OpenAI for approval.
 
 
-**Video Demo and Screenshots**
+**Video Demo and Screenshots**:
 
 Within this repo is a video where I demo hAIku. Unfortunately the audio is not working, however the audio is not necessary for seeing how the app works. I am working on sorting out the audio issue.
 
