@@ -63,7 +63,7 @@ Database interaction is done through Google Firestore
 API interaction is done through Axios
 
 
-**Compliance with OpenAI's safety guidlines**
+**Compliance with OpenAI's safety guidlines**:
 
 Since GPT-3 is a new and powerful algorithm, OpenAI requires developers to implement compliance standards in their code. These standards include best ethical practices and other safety standards. hAIku follow all of the guildlines set forth by OpenAI.
 
