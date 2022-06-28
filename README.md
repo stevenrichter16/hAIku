@@ -71,3 +71,12 @@ React-Redux is used for state management
 Since GPT-3 is a new and powerful algorithm, OpenAI requires developers to implement compliance standards in their code. These standards include best ethical practices and other safety standards. hAIku follow all of the guildlines set forth by OpenAI.
 
 
+**Current State of the App**:
+
+All of the code is finished and tested. In the future I will submit hAIku to Apple and OpenAI for approval.
+
+
+**Video Demo and Screenshots**
+
+Within this repo is a video where I demo hAIku. Unfortunately the audi is not working, however the audio is not necessary for understanding how the app works. I am working on sorting out the audio issue.
+
