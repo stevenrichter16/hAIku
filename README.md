@@ -47,6 +47,20 @@ topic 4: anxiety
       Like an insistent finger
       
       Trying to get your attention...
+      
+      
+**Languages and Technologies**:
+
+The bulk of the code is written in React Native. Before developing the app I was familiar with React JS, so React Native was not a difficult langauge to work with.
+
+
+The authentication is done through Google Firebase Authentication
+
+
+Database interaction is done through Google Firestore
+
+
+API interaction is done through Axios
 
 
 
