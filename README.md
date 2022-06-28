@@ -1,5 +1,5 @@
 # hAIku
-A repo for displaying information about a React Native app I created.
+A React Native app that generates unique poems based on user input
 
 **Motivation**:
 
